@@ -1,0 +1,46 @@
+@media (max-width: 640px){
+    .container{
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .textos{
+        height: 100px;
+        width: 240px;
+       
+    }
+    .textos p{
+        font-size: 12px;
+       
+    }
+    .textos h2{
+        font-size: 15px;
+       
+    }
+    .formulario{
+        width: 280px;
+        height: 300px;
+        padding: 25px;
+        
+      
+    }
+    .formulario .campo{
+        height: 20px;
+
+        font-size: 12px;
+        margin-top: 4px;
+    }
+    .formulario .btn-enviar{
+     
+      
+        height: 30px;
+        margin-top: 20px;
+    }
+    .formulario #texto-diferente{
+        font-size: 13px;
+        margin-top: 20px;
+    }
+}
+
+
+
