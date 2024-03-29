@@ -5,7 +5,8 @@
     font-family: "Roboto", sans-serif;
 }
 
-.container{
+.body{
+    
     background-image: url('./src/imgs/bg-repeat.jpg');
     background-size: contain;
    
