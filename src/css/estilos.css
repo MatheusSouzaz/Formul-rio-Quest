@@ -56,7 +56,7 @@
     color: red;
     opacity: 0;
 }
-.formulario .campo-vazio.verdade{
+.formulario .campo-vazio.mostrar{
     opacity: 1;
 }
 
